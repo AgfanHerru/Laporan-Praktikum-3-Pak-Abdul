@@ -1,0 +1,22 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Oct 12 08:06:14 2021
+
+@author: hp
+NAMA: AGFAN HERRU PRATAMA 
+NIM: 064002100043
+"""
+
+print ("@@@@ @@@@ @@@@ @@@@ @@   @")
+print ("@  @ @    @    @  @ @ @  @")
+print ("@@@@ @ @@ @@@@ @@@@ @  @ @")
+print ("@  @ @@@@ @    @  @ @   @@")
+
+
+
+a=int(input("masukan angka awal = "))
+b=int(input("masukan angka akhir = "))
+while a<b:
+    print(a, b)
+    a = a+1
+    b = b-1
